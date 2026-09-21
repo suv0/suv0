@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:1F2937,100:111827&text=Abdul%20Hamid%20Shuvo&fontColor=ffffff&fontAlign=50&fontAlignY=40&desc=Lead%20Full%20Stack%20Engineer&descAlign=50&descAlignY=62" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=94A3B8&center=true&vCenter=true&width=700&lines=16+years+of+code.;9+at+Chaldal+(YC+S15)+shipping+groceries%2C+ride-sharing%2C+and+logistics+apps.;The+ride-sharing+did+not+survive.+Everything+else+did%2C+so+far.;Now+building+AllChrono.)](https://suvo.me)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=94A3B8&center=true&vCenter=true&width=1400&lines=16+years+of+code.;9+at+Chaldal+(YC+S15)+shipping+groceries%2C+ride-sharing%2C+and+logistics+apps.;The+ride-sharing+did+not+survive.+Everything+else+did%2C+so+far.;Now+building+AllChrono.)](https://suvo.me)
 
 Dhaka, Bangladesh - Open to remote work
 
