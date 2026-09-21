@@ -1,14 +1,16 @@
 <div align="center">
 
-# Abdul Hamid Shuvo
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:1F2937,100:111827&text=Abdul%20Hamid%20Shuvo&fontColor=ffffff&fontAlign=50&fontAlignY=40&desc=Lead%20Full%20Stack%20Engineer&descAlign=50&descAlignY=62" width="100%"/>
 
-### Lead Full Stack Software Engineer - 17+ years building software
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=94A3B8&center=true&vCenter=true&width=700&lines=16+years+of+code.;9+at+Chaldal+(YC+S15)+shipping+groceries%2C+ride-sharing%2C+and+logistics+apps.;The+ride-sharing+did+not+survive.+Everything+else+did%2C+so+far.;Now+building+AllChrono.)](https://suvo.me)
 
 Dhaka, Bangladesh - Open to remote work
 
 [![Portfolio](https://img.shields.io/badge/suvo.me-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://suvo.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shuv0)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@suvo.me)
+
+![Years](https://img.shields.io/badge/17%2B_years_shipping-1F2937?style=flat-square) ![Downloads](https://img.shields.io/badge/1M%2B_app_downloads-1F2937?style=flat-square) ![Users](https://img.shields.io/badge/1%2C000%2B_internal_users-1F2937?style=flat-square) ![Projects](https://img.shields.io/badge/60%2B_client_projects-1F2937?style=flat-square) ![Rating](https://img.shields.io/badge/5.0_freelancer_rating-1F2937?style=flat-square) ![Views](https://komarev.com/ghpvc/?username=suv0&style=flat-square&color=1F2937&label=profile+views)
 
 </div>
 
@@ -47,7 +49,11 @@ Dhaka, Bangladesh - Open to remote work
 
 <div align="center">
 
-![Streak stats](https://streak-stats.demolab.com/?user=suv0&hide_border=true)
+![snake](https://raw.githubusercontent.com/suv0/suv0/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![snake](https://raw.githubusercontent.com/suv0/suv0/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+![Streak stats](https://streak-stats.demolab.com/?user=suv0&hide_border=true&theme=dark#gh-dark-mode-only)
+![Streak stats](https://streak-stats.demolab.com/?user=suv0&hide_border=true#gh-light-mode-only)
 
 </div>
 
