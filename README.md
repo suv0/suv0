@@ -37,6 +37,7 @@ Dhaka, Bangladesh - Open to remote work
 
 ### Building on the side
 
+- **[deputy](https://github.com/suv0/deputy)** - background agent jobs that wake only when there's work. Its first job reviews the PRs you're asked to review: cheap models gather facts, a strong model drafts the review, a second model tries to prove it wrong, and the posting rules are enforced in code.
 - **[PRism](https://github.com/suv0/prsm)** - a CLI that pulls GitHub PRs and runs them through parallel AI review passes (correctness, nitpick, devil's advocate) to produce structured, paste-ready review comments.
 - **[Precious](https://github.com/suv0/precious)** - a self-hosted LLM router with multi-provider failover across Groq, Gemini, OpenAI, and OpenRouter, encrypted API keys, and 17 provider adapters.
 - **Subject / EggShell** - open-source contribution to an application stack's frontend layer APIs and foundational component patterns.
